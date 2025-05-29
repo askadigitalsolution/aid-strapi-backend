@@ -1,0 +1,14 @@
+
+{
+  "name": "aid-strapi-backend",
+  "version": "1.0.0",
+  "description": "Strapi backend for Ability in Disability NGO",
+  "scripts": {
+    "develop": "strapi develop",
+    "start": "strapi start",
+    "build": "strapi build"
+  },
+  "dependencies": {
+    "strapi": "^4.20.1"
+  }
+}
